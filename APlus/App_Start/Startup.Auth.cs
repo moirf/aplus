@@ -30,8 +30,8 @@ namespace APlus
 
             //published
             //app.UseFacebookAuthentication(
-            //   appId: "2953698163",
-            //   appSecret: "c7429c59bada5c5a359649d746340f19");
+               appId: "2953698163",
+               appSecret: "c7429c59bada5c5a359649d746340f19");
             //localhost
             app.UseFacebookAuthentication(
                appId: "2694467493",
